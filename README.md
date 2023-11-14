@@ -2,8 +2,8 @@
 
 ## I'm a Middle Quality Assurance Engeneer. I have been testing Web and Mobile Applications, API Methods
 
-Skills
-![Regression Testing](https://img.shields.io/badge/-Regression Testing-000000)
+### Skills
+![Regression](https://img.shields.io/badge/-Regression-000000?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 
 
 Testing and Analytics Documentation
