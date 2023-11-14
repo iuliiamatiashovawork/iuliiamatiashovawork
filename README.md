@@ -1,7 +1,7 @@
 ![Header](https://github.com/iuliiamatiashovawork/iuliiamatiashovawork/blob/main/assets/logo-no-background.png)
 
-About me
+## I'm a Middle Quality Assurance Engeneer. I have been testing Web and Mobile Applications, API Methods
 
-Testong and Analytics Documentation
+Testing and Analytics Documentation
 
 Follow me
