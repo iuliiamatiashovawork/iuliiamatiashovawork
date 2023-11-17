@@ -5,6 +5,18 @@
 ### 👨‍💻 Обо мне:
 Я Middle Manual Fullstack QA Engineer, занимаюсь тестированием с 2019 года. Работала в 3 компаниях, тестировала веб-, мобильные, голосовые приложения, API. Сейчас мой главный вектор развития - автоматизация.
 
+---
+### 🤝 Как связаться со мной:
+  <div id="badges">
+    <a href="https://t.me/iuliiamatiashova" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="mailto:iuliiamatiashova.work@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="40" height="40" alt="gmail" />
+    </a>
+  </div>
+---
+
 ### 📁 Тестовая документация:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
