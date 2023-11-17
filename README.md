@@ -50,10 +50,10 @@
 
 ### 💾 Работа с данными:
 <div>
-  <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp
+  <img src="https://www.kindpng.com/picc/m/352-3529349_transparent-sql-png-sql-server-logo-png-png.png" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="Postgre SQL" alt="Postgre SQL" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
