@@ -1,6 +1,9 @@
 ![Header](https://github.com/iuliiamatiashovawork/iuliiamatiashovawork/blob/main/assets/logo-no-background.png)
 
-## I'm a Middle Quality Assurance Engeneer. I have been testing Web and Mobile Applications, API Methods
+# Привет, меня зовут Юлия Матяшова!
+---
+### 👨‍💻 Обо мне:
+Я Middle Manual Fullstack QA Engineer, занимаюсь тестированием с 2019 года. Работала в 3 компаниях, тестировала веб-, мобильные, голосовые приложения, API. Сейчас мой главный вектор развития - автоматизация.
 
 ### 📁 Тестовая документация:
 <div>
