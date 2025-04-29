@@ -12,10 +12,10 @@ I am a Middle Manual Fullstack QA Engineer, working in testing since 2019. I hav
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="mailto:iuliiamatiashova.work@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="80" height="40" alt="gmail" />
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="gmail" />
     </a>
     <a href="https://www.linkedin.com/in/qa-engineer-iuliia-matiashova/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="80" height="40" alt="linkedin" />
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin" />
     </a>
   </div>
 
@@ -54,7 +54,7 @@ I am a Middle Manual Fullstack QA Engineer, working in testing since 2019. I hav
 
 ### 💾 Data Management:
 <div>
-  <img src="https://www.kindpng.com/picc/m/352-3529349_transparent-sql-png-sql-server-logo-png-png.png" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp
+  <img src="https://www.clipartmax.com/png/small/156-1565797_microsoft-logo-transparent-background-microsoft-sql-server-logo.png" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="Postgre SQL" alt="Postgre SQL" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
