@@ -54,7 +54,7 @@ I am a Middle Manual Fullstack QA Engineer, working in testing since 2019. I hav
 
 ### 💾 Data Management:
 <div>
-  <img src="https://www.clipartmax.com/png/small/156-1565797_microsoft-logo-transparent-background-microsoft-sql-server-logo.png" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp
+  <img src="https://www.clipartmax.com/png/small/156-1565797_microsoft-logo-transparent-background-microsoft-sql-server-logo.png" title="MS SQL Server" alt="MS SQL Server" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="Postgre SQL" alt="Postgre SQL" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
