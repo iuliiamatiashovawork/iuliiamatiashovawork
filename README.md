@@ -12,10 +12,10 @@ I am a Middle Manual Fullstack QA Engineer, working in testing since 2019. I hav
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="mailto:iuliiamatiashova.work@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="gmail" />
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="40" alt="gmail" />
     </a>
     <a href="https://www.linkedin.com/in/qa-engineer-iuliia-matiashova/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin" />
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="40" alt="linkedin" />
     </a>
   </div>
 
